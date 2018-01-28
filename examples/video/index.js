@@ -22,7 +22,7 @@ function onLoad() {
     width: '100%',
     height: 480,
     // video: 'congo_2048.mp4',
-    video: 'R0010097.MP4',
+    video: 'R0010100_injected.MP4',
     is_stereo: true,
     loop: false,
     //hide_fullscreen_button: true,
